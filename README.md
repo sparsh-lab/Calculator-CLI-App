@@ -14,3 +14,18 @@ It supports basic arithmetic operations: addition, subtraction, multiplication, 
 ```bash
 python calculator.py
 
+---
+
+## Features
+
+-Add, subtract, multiply, divide
+-Input validation
+-Error handling for invalid input & division by zero
+
+---
+
+## Tools Used
+
+-Python
+-VS Code / Terminal
+
