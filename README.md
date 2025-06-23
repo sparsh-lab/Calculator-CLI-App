@@ -14,7 +14,7 @@ It supports basic arithmetic operations: addition, subtraction, multiplication, 
 ```bash
 python calculator.py
 
----
+```
 
 ## Features
 
